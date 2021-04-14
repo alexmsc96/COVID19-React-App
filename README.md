@@ -1,5 +1,7 @@
 # COVID19 Tracker
 
+![covid tracker](https://user-images.githubusercontent.com/62430558/114781886-f879b580-9d81-11eb-95da-db7a3291c126.png)
+
 _disease.sh, newsapi.org, React, React-Router, Axios, CSS, MATERIAL-UI, google-map-react react-chartjs-2_
 
 ## Description
