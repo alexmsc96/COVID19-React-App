@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const dataUrl = "https://disease.sh/v2";
-const newsUrl = "https://newsapi.org/v2/top-headlines?country=us&q=coronavirus";
+const newsUrl = "https://newsapi.org/v2/top-headlines?country=ro&q=coronavirus";
 const APIKEY = process.env.REACT_APP_API_KEY;
 
 export const fetchData = async () => {
@@ -40,6 +40,7 @@ export const fetchCountryChartData = async (country) => {
         timeline: { cases, deaths, recovered },
       },
     } = response;
+    console.log(response);
     return { cases, deaths, recovered };
   } catch (error) {}
 };
