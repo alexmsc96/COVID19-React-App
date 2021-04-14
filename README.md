@@ -22,7 +22,8 @@ Additionally, you need to add your own API KEY inside a .env file
 
 ### Thoughts
 
-This was my first application built with React.js. Immediately saw the advantages of it.
+For my first application built with React.js, I immediately saw the advantages of using this framework.
+### Goals:
 For future React project:
 
 - implement Redux
