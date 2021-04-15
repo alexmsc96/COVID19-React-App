@@ -9,7 +9,8 @@ _disease.sh, newsapi.org, React, React-Router, Axios, CSS, MATERIAL-UI, google-m
 This application consists of a COVID19 tracker app where the users are able to:
 
 - Fetch data about COVID19 from a third-party API in real-time
-- Visualize on a map data about the spread of COVID19 worlwide
+- Interactive map showing the spread of 
+Covid-19 worldwide
 - See graphs explaining the spread of the virus
 - See news about COVID19.
 
